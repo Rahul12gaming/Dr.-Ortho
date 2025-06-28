@@ -17,6 +17,7 @@ import Appointments from "./pages/home/dashboard/admin/Appointments";
 import CalendarView from "./pages/home/dashboard/admin/CalendarView";
 import PatientDashboard from "./pages/home/dashboard/patient/PatientDashboard";
 import { ProtectedRoute, PublicProtectedRoute } from "./ProtectedRoute";
+import About from "./pages/about/About";
 
 // Simple Loader Component
 const Loader = () => (
@@ -83,7 +84,7 @@ function App() {
           path="/contact"
           element={
             <PublicProtectedRoute>
-              <Register />
+              <About />
             </PublicProtectedRoute>
           }
         />
