@@ -170,9 +170,7 @@ const Header: FC = () => {
           <a href="https://github.com/Rahul12gaming" className="text-sm hover:text-blue-600 flex gap-1 items-center">
             <Info size={14} /> GitHub
           </a>
-          <a href="/contact" className="text-sm hover:text-blue-600 flex gap-1 items-center">
-            <PhoneCall size={14} /> Contact
-          </a>
+         
         </div>
 
         {/* Auth Section */}
@@ -248,9 +246,7 @@ const Header: FC = () => {
               {item.title}
             </a>
           ))}
-          <a href="/contact" className="block text-sm hover:text-blue-600">
-            Contact
-          </a>
+          
           <a href="https://github.com/Rahul12gaming" className="block text-sm hover:text-blue-600">
             GitHub
           </a>
