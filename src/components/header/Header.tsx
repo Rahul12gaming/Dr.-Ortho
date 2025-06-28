@@ -7,7 +7,7 @@ import {
   ShieldCheck,
   UserPlus,
   Stethoscope,
-  PhoneCall,
+ 
   Info,
 } from "lucide-react";
 
