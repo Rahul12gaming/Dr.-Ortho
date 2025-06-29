@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Dr. Ortho - An dental Care Management System
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -52,3 +52,11 @@ export default tseslint.config({
   },
 })
 ```
+
+
+Below are the ScreenShots of the application
+![image](https://github.com/user-attachments/assets/45209d2d-aa2e-41b9-aace-cf521f49ed9a)
+![image](https://github.com/user-attachments/assets/46270ad9-59fc-43be-aa40-e6aec754e45b)
+![image](https://github.com/user-attachments/assets/cd30637b-88f5-4fbc-81f3-f54410572e57)
+
+
